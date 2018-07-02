@@ -2,6 +2,8 @@
 layout: default
 title: Avni Fatehpuria's Resume
 ---
+# Avni Fatehpuria
+
 **Education**
 
 **Swarthmore College,** Swarthmore, PA                                                                            _                              August &#39;14-May &#39;18_
