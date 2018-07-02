@@ -1,2 +1,3 @@
 name: Avni Fatehpuria
 markdown: kramdown
+permalink: /blog/:title
