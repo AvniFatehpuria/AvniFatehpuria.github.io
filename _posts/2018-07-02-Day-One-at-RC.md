@@ -1,7 +1,7 @@
 ---
-layout:post
+layout: post
 title: Day One at the RC!
-date:2018-07-02
+date: 2018-07-02
 ---
 
 It's been such a full day! After group orientation activities, there was a lot of structured and unstructured time to talk to Recursers - both 
