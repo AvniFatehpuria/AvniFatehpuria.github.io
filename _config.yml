@@ -1,2 +1,4 @@
 name: Avni Fatehpuria
 markdown: kramdown
+
+theme: jekyll-theme-slate
