@@ -4,7 +4,7 @@ title: Avni Fatehpuria's Resume
 ---
 # Avni Fatehpuria
 
-**Education**
+### Education
 
 **Swarthmore College,** Swarthmore, PA                                                                            _                              August &#39;14-May &#39;18_
 
@@ -15,7 +15,7 @@ title: Avni Fatehpuria's Resume
 
 - IB Diploma: 41/45, SAT: 780 Reading, 740 Math, 760 Writing, SAT Subject tests: 800 Math II, 780 Physics
 
-**Skills**
+### Skills
 
 **Programming Languages:** Proficient in Python, Java, OCaml, Experienced ith C, C++, Familiar with IA32 assembly, R
 
@@ -25,22 +25,22 @@ title: Avni Fatehpuria's Resume
 
 **Other:** Experienced with big data, Git, object-oriented programming, machine learning, familiar with android app development
 
-**Projects**
+### Projects
 
 -  **Online multiplayer game;** a desktop life sim that explores spoon theory – designed model and wrote networking layer
 -  **Compiler;** Ocaml based, for a language with functionality including tail recursion and mark-compact garbage collection
 -  **Breast Cancer Classification;** wrote code and a paper comparing Decision Trees, Gaussian Naive-Bayes, and k-nearest neighbors as classifiers for breast cancer subtypes
 
-**Experience**
+### Experience
 
-**Fullstack Software Engineer,**  **RISE,** Washington DC **                                                     ** _January &#39;18 – Current_
+**Fullstack Software Engineer,**  **RISE,** Washington DC **                                                     ** _January &#39;18 – May'18_
 
 - Developing a Java MVC app for editing enhanced eBooks to promote literacy in deaf children (see [this](https://network.changemakers.com/challenge/childrenswellbeing/refining/rise-reading-involves-shared-experience-bilingual-bimodal-ebooks-for-adults-to-share-with-deaf-children) for more info)
 - Own various features across the stack – including video, images, and text widgets
 - Refactored monolithic controller god object down into modular classes – saving hours lost working around our own code
 - Created feature list and design specs based on client need to optimize efficiency of eBook creation and accessibility of eBooks produced
 
-**IT Support Associate,**  **Helpdesk at Swarthmore College ITS,** Swarthmore,PA                                                A_ugust &#39;17-Current_
+**IT Support Associate,**  **Helpdesk at Swarthmore College ITS,** Swarthmore,PA                                                A_ugust &#39;17-March'18_
 
 - Provide technical support to 2000+ students, faculty and staff and maintaining public area devices
 - Resolve issues with Mac and Windows OS, iPhones, androids, printers, etc, often unsupervised
