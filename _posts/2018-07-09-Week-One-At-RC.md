@@ -1,3 +1,9 @@
+---
+layout: post
+title: Week One at the RC!
+date: 2018-07-09
+---
+
 Week 1 at the RC was shorter than most because of the 4th of July, but it was still so full and incredibly productive!
 
 I've started working towards my goal of better understanding and being able to use machine intelligence by beginning working through 
